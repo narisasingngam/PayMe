@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532015559471",
+    "firebase_url": "https://payme-241a2.firebaseio.com",
+    "project_id": "payme-241a2",
+    "storage_bucket": "payme-241a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532015559471:android:d15c75759d225f259367da",
+        "android_client_info": {
+          "package_name": "com.example.payme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532015559471-li0ad8dntgt2a1rj3lim6nmsefqmam1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payme",
+            "certificate_hash": "3051273bc28d5df1138e8e843bb80aa042e45faf"
+          }
+        },
+        {
+          "client_id": "532015559471-fdq270ctdffikljtsai7hfgl100upm07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFcORg41zrvxdy2T8BTrMRwoZlLQN2DLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532015559471-fdq270ctdffikljtsai7hfgl100upm07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
